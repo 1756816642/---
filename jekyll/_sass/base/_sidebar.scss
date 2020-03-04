@@ -1,0 +1,35 @@
+.sidebar {
+  padding: $padding-sidebar-content;
+}
+
+.mobile-nav {
+  width: 100%;
+}
+
+.sidebar-sublist {
+  margin-bottom: 2em;
+}
+
+$spacer: 0.8em;
+
+.sidebar-link {
+  display: block;
+  margin-left: $spacer;
+  padding: $spacer/2 $spacer;
+  font-size: $fontSmall;
+  line-height: 1.5;
+
+  &:hover {
+    background: $ab-white;
+    text-decoration: none;
+  }
+}
+
+.sidebar-link--active {
+  font-weight: 500;
+}
+
+.sidebar-link--title {
+  margin: 0;
+  font-size: 18px;
+}

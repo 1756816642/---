@@ -1,0 +1,31 @@
+- name: "Installing Airbrake"
+  slug: installing-airbrake
+  index: installing-airbrake
+
+- name: "Performance Monitoring"
+  slug: performance-monitoring
+  index: performance-monitoring
+
+- name: "Airbrake features"
+  slug: features
+  index: features
+
+- name: "Ruby"
+  slug: ruby
+  index: ruby
+
+- name: "Integrations"
+  slug: integrations
+  index: integrations
+
+- name: "Airbrake FAQ"
+  slug: airbrake-faq
+  index: airbrake-faq
+
+- name: "Billing"
+  slug: billing
+  index: billing
+
+- name: "On Premise"
+  slug: on-premise
+  index: on-premise
